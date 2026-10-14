@@ -1,0 +1,4 @@
+cashclip_data.json
+cashclip_data.json.tmp
+*.csv
+__pycache__/
